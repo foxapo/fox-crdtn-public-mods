@@ -1,0 +1,40 @@
+EffectDef {
+ Emitors {
+  EmitorDef emitor1 {
+   ShapeType Point
+   ShapeSize 0.2 0.2 0.2
+   MaxNum 1
+   BirthRate 1
+   BirthRateRND 0
+   Material "CRDTN_Client_Creatures/Data/Creatures/Phantom/phantom_spawn.emat"
+   SizeMultiplier 3
+   SizeRND 1
+   RandomRotDir 1
+   RotMultiplier 10
+   RandomAngle 1
+   Velocity 0
+   AnimOnce 1
+   AnimFPS 30
+   LifetimeByAnim 1
+   LifeTime 1
+   LifeTimeRND 0.5
+   Alpha {
+    0 1 1 1
+   }
+   Size {
+    0 0.41772 1 1
+   }
+   EffectTime 1
+   Repeat 0
+   AlphaMast {
+    0 1 1 1
+   }
+   SizeMast {
+    0 0.46835 1 1
+   }
+   BRateMast {
+    0 1 0.06994 0 1 0
+   }
+  }
+ }
+}

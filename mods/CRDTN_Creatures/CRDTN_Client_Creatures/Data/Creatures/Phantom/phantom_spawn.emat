@@ -1,0 +1,8 @@
+Particle {
+ AlbedoMap "CRDTN_Client_Creatures/Data/Creatures/Phantom/phantom_spawn.edds" 
+ Emissive 0.502 0.502 0.502 1
+ BlendMode Additive_AlphaModulate
+ TileU 4
+ TileV 2
+ Softness 2
+}
